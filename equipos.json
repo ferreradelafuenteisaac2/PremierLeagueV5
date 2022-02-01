@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "61bc3ef16c035c533c35689b"
+  },
+  "id": "RBB",
+  "nombre": "Real Betis Balompie",
+  "ganados": 11,
+  "empatados": 5,
+  "perdidos": 3,
+  "__v": 0
+}]
